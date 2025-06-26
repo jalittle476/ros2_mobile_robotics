@@ -26,7 +26,7 @@ Each course section is organized as its own ROS 2 package inside the `src/` dire
 cd bumperbot_ws
 colcon build
 source install/setup.bash
-
+```
 ### Run Section 1 Examples
 ros2 run bumperbot_py_examples simple_publisher
 ros2 run bumperbot_py_examples simple_subscriber
@@ -34,7 +34,7 @@ ros2 run bumperbot_py_examples simple_subscriber
 
 ---
 
-### Attribution
+## Attribution
 
 This repository is based on the Udemy course  
 **"Self Driving and ROS 2 – Learn by Doing! Odometry & Control"** by [Antonio Brandi](https://www.udemy.com/user/antonio-brandi/).
