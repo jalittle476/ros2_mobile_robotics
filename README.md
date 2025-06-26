@@ -46,3 +46,6 @@ The original course materials and reference code can be found on
 All code in this repository was written by me while following along with the course and is adapted for personal learning and portfolio use.  
 This repository does **not** include any proprietary course assets (videos, PDFs, quizzes, etc.), and is shared respectfully under the terms of the course and license.
 
+## 📝 Notes
+
+- [Section 01 – Pub/Sub Basics](notes/section_01_pubsub.md)
