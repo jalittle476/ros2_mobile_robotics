@@ -7,7 +7,7 @@ Each course section is organized as its own ROS 2 package inside the `src/` dire
 
 ---
 
-## 📦 ROS 2 Packages
+## ROS 2 Packages
 
 | Package Name              | Description                                | Language |
 |--------------------------|--------------------------------------------|----------|
@@ -19,7 +19,7 @@ Each course section is organized as its own ROS 2 package inside the `src/` dire
 
 ---
 
-## 🚀 How to Build & Run
+## How to Build & Run
 
 ### Build the workspace
 ```bash
@@ -33,7 +33,7 @@ ros2 run bumperbot_py_examples simple_subscriber
 
 
 
-## 📄 Attribution
+### Attribution
 
 This repository is based on the Udemy course  
 **"Self Driving and ROS 2 – Learn by Doing! Odometry & Control"** by [Antonio Brandi](https://www.udemy.com/user/antonio-brandi/).
