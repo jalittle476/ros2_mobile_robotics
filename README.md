@@ -28,6 +28,7 @@ colcon build
 source install/setup.bash
 ```
 ### Run Section 1 Examples
+```bash
 ros2 run bumperbot_py_examples simple_publisher
 ros2 run bumperbot_py_examples simple_subscriber
 ```
